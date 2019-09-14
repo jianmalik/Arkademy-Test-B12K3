@@ -2,7 +2,7 @@ const biodata = () => ({
     name: "Jian Malik Hidayat",
     age: 21,
     address:
-        "Jl baturaja no 16 RT/RW 001/001 ,Kel. Sukaraja , Kec. Sukaraja Selatan, Kota Prabumulih, Sumatera Selatan",
+        "Jl baturaja no 16 RT/RW 001/001 ,Kel. Sukaraja , Kec. Prabumulih Selatan, Kota Prabumulih, Sumatera Selatan",
     hobbies: ["Playing And Solved Rubik", "Listen Music", "Photography"],
     is_married: false,
     list_school: [
